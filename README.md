@@ -10,8 +10,7 @@
 
 [Raghunandan’s explanation and implementation of OnItemClickListener](https://stackoverflow.com/questions/18405299/onitemclicklistener-using-arrayadapter-for-listview)
 
-[Shiva’s explanation, Deliver a Message to a Fragment]
-(https://stackoverflow.com/questions/14439941/passing-data-between-fragments-to-activity)
+[Shiva’s explanation, Deliver a Message to a Fragment](https://stackoverflow.com/questions/14439941/passing-data-between-fragments-to-activity)
 
 ## Verbal Collaboration
 
